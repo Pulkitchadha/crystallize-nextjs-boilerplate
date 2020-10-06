@@ -1,4 +1,4 @@
-# Crystallize NextJS Boilerplate
+# Crystalize NextJS Boilerplate
 
 [![Crystallize Community Slack][21]][22] [![React: latest][0]][1]
 [![Next: latest][2]][3] [![code style: prettier][4]][5]
